@@ -1,0 +1,44 @@
+body{
+    color:#82a5ca; 
+    /* background-image:url(https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif);
+    background-size:cover; */
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+    font-weight: bolder;
+    margin:0;
+   
+}
+
+@font-face {
+    font-family:ChopinScript;
+    src: url(ChopinScript.ttf);
+}
+
+img{
+    /* margin-left:04%; */
+    width:200px;
+}
+
+
+h1{
+    
+    font-family:ChopinScript;
+    text-shadow: 0 0 4px black;
+}
+
+
+button{
+    color:#82a5ca;
+    background-color: white;
+   font-weight: bolder;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#hero{
+    background-image:url(https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif);
+    background-size:cover;
+    padding:10px 0px 40px 0;
+    padding-bottom: 200px;
+}
